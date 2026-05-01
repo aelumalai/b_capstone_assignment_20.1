@@ -15,7 +15,8 @@ Source: UCI Machine Learning Repository
 Link : https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008Links to an external site.
 
 The techniques you expect to use in your analysis: Will be applying the following techniques learnt: EDA - exploratory data analysis and feature engineering:
-
+**Link to Jupiter Notebook : **
+https://github.com/aelumalai/b_capstone_assignment_20.1/blob/main/capstone_project_assignment_20_1.ipynb
 Handling Missing Values: Techniques like imputation (mean, median, mode, or more sophisticated methods) will be crucial, as real-world healthcare datasets often have missing data. Categorical Feature Encoding: Convert categorical variables (e.g., race, gender, diagnoses codes) into numerical formats using One-Hot Encoding or Label Encoding.
 
 Feature Scaling: Standardize or normalize numerical features (e.g., laboratory results, number of procedures) to ensure that no single feature dominates the model due to its scale.
